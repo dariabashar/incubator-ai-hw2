@@ -1,0 +1,64 @@
+{
+    "notes": [
+      {
+        "id": 1,
+        "heading": "Assistants API",
+        "summary": "Learn to use Assistants API effectively for study",
+        "page_ref": 1
+      },
+      {
+        "id": 2,
+        "heading": "Structured Output",
+        "summary": "Implement structured output for generating notes",
+        "page_ref": 1
+      },
+      {
+        "id": 3,
+        "heading": "Q&A Assistant",
+        "summary": "Build a Q&A assistant for retrieving study answers",
+        "page_ref": 1
+      },
+      {
+        "id": 4,
+        "heading": "Exam Preparation",
+        "summary": "Focus on key concepts to prepare for exams",
+        "page_ref": 1
+      },
+      {
+        "id": 5,
+        "heading": "Integration Techniques",
+        "summary": "Explore different integration techniques in calculus",
+        "page_ref": 1
+      },
+      {
+        "id": 6,
+        "heading": "Definite vs Indefinite Integrals",
+        "summary": "Understand the difference between definite and indefinite integrals",
+        "page_ref": 1
+      },
+      {
+        "id": 7,
+        "heading": "Mean Value Theorem",
+        "summary": "Learn the statement and implications of the Mean Value Theorem",
+        "page_ref": 1
+      },
+      {
+        "id": 8,
+        "heading": "Key Definitions",
+        "summary": "Familiarize yourself with important mathematical definitions",
+        "page_ref": 1
+      },
+      {
+        "id": 9,
+        "heading": "Common Formulas",
+        "summary": "Memorize commonly used formulas for quick reference",
+        "page_ref": 1
+      },
+      {
+        "id": 10,
+        "heading": "Revision Strategies",
+        "summary": "Use effective revision strategies for mastering topics",
+        "page_ref": 1
+      }
+    ]
+  }
